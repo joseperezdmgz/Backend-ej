@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "jose3perez@gmail.com",
+      "password": "$2a$12$z5Tv6jZfjgixDgD3gCQOxOU2gzeuByrd3oLhJ8GyeTSz24xxs/Xq2"
+    },
+    {
+      "email": "josperez@gmail.com",
+      "password": "$2a$12$tghsFczvLyu3HFfxKM7qMefCf0w1X/hzI7OgmoU71FPIYFRheJgoS"
+    },
+    {
+      "email": "jose@perez.com",
+      "password": "$2a$12$FM6z0XOQotTM1J7e0t6Kle1HdT3qr4ylLv55AItd5.5ZVbk.F1sZ6"
+    },
+    {
+      "email": "joswe@perez.com",
+      "password": "$2a$12$jUtneiDQ8pRvwnQlLZ1KneTkULzBCG/wot3FdpdUtvBfEpLZV4sBm"
+    }
+  ]
+}
